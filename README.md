@@ -1,4 +1,4 @@
-# vuejs3-router
+# vuejs3-blog
 
 ## Project setup
 ```
